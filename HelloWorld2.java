@@ -6,4 +6,5 @@ class HelloWorld2{
 	fix issue
  	fix issue2
 	binbin5
+	binbin6
 }
