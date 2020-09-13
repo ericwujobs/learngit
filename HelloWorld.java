@@ -4,4 +4,5 @@ class HelloWorld{
 	yanli3
 	yanli4
 	yanli5
+	yanli6
 }
