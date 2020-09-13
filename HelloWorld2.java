@@ -4,4 +4,5 @@ class HelloWorld2{
 	binbin3
 	binbin4
 	fix issue
+ 	fix issue2
 }
