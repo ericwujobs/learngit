@@ -5,4 +5,5 @@ class HelloWorld2{
 	binbin4
 	fix issue
  	fix issue2
+	binbin5
 }
