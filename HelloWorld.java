@@ -8,4 +8,5 @@ class HelloWorld{
 	yanli7
 	yanli8
 	yanli9
+	yanli10
 }
